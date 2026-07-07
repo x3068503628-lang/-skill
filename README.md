@@ -1,20 +1,10 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 627fc51878dc6f34f79713b8bf41b97c_56361d9779f911f1914a5254002afed2
-    ReservedCode1: oSa3zvvn58rwfY7XHzwZwhX8d5MxUWc+sKF3SgkX0y/TjGAZF7DhrUABuCl6sTbLU/Kqo352DWMxLRRZXUYqQodud7IIfFmaG/bFiMF/Tnr87ZYR+NwOBAGmYoGseS32VzC/gnaOANpFkBj1YbNBgIRQBRAzDvQcPCgjAeDGdnnPR+kdRPq8l8nrlpU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 627fc51878dc6f34f79713b8bf41b97c_56361d9779f911f1914a5254002afed2
-    ReservedCode2: oSa3zvvn58rwfY7XHzwZwhX8d5MxUWc+sKF3SgkX0y/TjGAZF7DhrUABuCl6sTbLU/Kqo352DWMxLRRZXUYqQodud7IIfFmaG/bFiMF/Tnr87ZYR+NwOBAGmYoGseS32VzC/gnaOANpFkBj1YbNBgIRQBRAzDvQcPCgjAeDGdnnPR+kdRPq8l8nrlpU=
----
 
 # 立党 Skill (Lidang Skill)
 
 > 让任意 LLM 在 5 分钟内变成"立党"：直白、数据驱动、批判性强、实用至上。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-v3-blue.svg)](./CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1-blue.svg)](./CHANGELOG.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
 ## 这是什么
@@ -99,4 +89,4 @@ LLM 会按 5 步法（先骂 → 讲底层 → 给路径 → 避坑 → 收尾�
 ---
 
 **License**: MIT
-*（内容由AI生成，仅供参考）*
+*（内容仅供参考）*
