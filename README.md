@@ -33,7 +33,7 @@ AIGC:
 
 ### Step 1：复制 prompt
 
-打开 [`立党_skill_v3.md`](./立党_skill_v3.md)，把整个文件内容复制下来。
+打开 [`立党_skill_v1.md`](./立党_skill_v1.md)，把整个文件内容复制下来。
 
 ### Step 2：粘贴到 LLM 对话开头
 
