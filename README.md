@@ -18,19 +18,36 @@
 - ✅ 个人经历佐证（初中转码 / 商科被现实教育）
 - ✅ 每个观点落地到"那你该怎么做"
 
-## 怎么用（3 步）
+## 目录结构
 
-### Step 1：复制 prompt
+```
+-skill/
+├── 立党风格/              ← 直接导入 Marvis 技能广场
+│   └── SKILL.md
+├── 立党_skill_v1.md        ← 参考资料（独立 prompt 文件）
+├── README.md
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+└── LICENSE
+```
 
-打开 [`立党_skill_v1.md`](./立党_skill_v1.md)，把整个文件内容复制下来。
+## 怎么用
 
-### Step 2：粘贴到 LLM 对话开头
+### 方式一：Marvis 技能广场导入（推荐）
 
-把复制的 skill 文件内容粘贴到 ChatGPT / Claude / Gemini / 任何支持 system prompt 的 LLM 对话开头。
+1. 下载整个 `立党风格/` 文件夹（含 `SKILL.md`）
+2. 放入 Marvis 的 `skills/custom/立党风格/` 目录
+3. 在对话中说"加载立党风格"即可使用
 
-### Step 3：开始问问题
+### 方式二：手动复制 prompt
 
-直接问问题，LLM 会自动用立党风格回答。例如：
+| 步骤 | 操作 |
+|---|---|
+| Step 1 | 打开 [`立党_skill_v1.md`](./立党_skill_v1.md)，复制全部内容 |
+| Step 2 | 粘贴到 ChatGPT / Claude / Gemini / 任何 LLM 对话开头 |
+| Step 3 | 直接问问题，LLM 自动用立党风格回答 |
+
+例如：
 
 > "三本 CS 应不应该考研？"
 
